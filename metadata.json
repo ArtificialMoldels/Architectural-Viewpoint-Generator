@@ -1,0 +1,5 @@
+{
+  "name": "Architectural Viewpoint Generator",
+  "description": "An application for architects to upload an image of a building and use AI to generate new views from different perspectives by controlling an interactive 3D diagram.",
+  "requestFramePermissions": []
+}
